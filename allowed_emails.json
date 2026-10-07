@@ -2,6 +2,7 @@
   "status": "active",
   "updated_at": "2026-10-07",
   "allowed_emails": [
-    "hoang@gmail.com"
+    "hoang@gmail.com",
+    "test_instant@gmail.com"
   ]
 }
